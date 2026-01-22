@@ -33,9 +33,11 @@
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/mainPage.png)
 ### “数据类型映射”界面
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/dataTypeMapping.png)
+
 数据类型映射关系可以保存在文件中，CodeAsst有一个默认的数据类型映射文件default.typemap，用户可以编辑自己的数据类型映射文件。
 ### “编辑模板”界面
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/editTemplate.png)
+
 CodeAsst支持模板集，一个模板集包括多个模板，比如你可以定义Java程序的模板集，也可以定义一个.NET程序的模板集。
 #### 新建模板
 点击“新建模板”按钮可以新建一个模板文件，在这个界面中可以导入已有的模板文件的内容。
@@ -239,8 +241,11 @@ ${model.name} $model.name
 CodeAsst自定义了自己的数据模型XML文件，用户可以自行编辑XML文件以定义自己的数据模型。在“选择表模型”的界面中，用户可以将已打开的数据模型导出为XML文件进行编辑。
 #### 连接ORACLE、MySQL、Sql Server、PostgreSQL数据库
 点了相应按钮后，会弹出连接数据库的对话框，在输入JDBC的连接地址、用户名和密码后，点“连接”按钮获取数据库的用户列表。
+
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/connectDatabase.png)
+
 在选中的用户名中选择一个，点确定后，CodeAsst会读取此用户下的所有表的属性结构信息，可能会花费几分钟时间完成相应操作。
+
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/choseDatabase.png)
 ### “选择表模型”界面
 在数据模型已打开的情况下，在“选择表模型”界面可以查看并选择需要生成代码的表模型。
@@ -249,8 +254,11 @@ CodeAsst自定义了自己的数据模型XML文件，用户可以自行编辑XML
 ### 代码生成
 在代码模板已经确认，数据模型已经确认的情况下，可以打开“代码生成”界面。
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/codeProduce.png)
+
 如图，点击红圈内的按钮可以设置生成文件的目录，点击“生成文件”按钮可以生成文件。
+
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/createFlies.png)
+
 非授权用户仅能生成3个文件。
 
 ## 📝 附录
@@ -388,7 +396,7 @@ CodeAsst自带了一个数据类型映射文件default.typemap，用户可以根
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/dataTypeMapping.png)
 ### 数据模型XML文件说明
 CodeAsst自定义了数据模型的XML语法，用户可以用PowerDesigner编辑数据模型后导出为XML文件，然后用文本编辑器看看文件格式。
-##🔧 常见问题
+## 🔧常见问题
 **支持PowerDesigner的哪几个版本：**目前测试过PowerDesigner15.3和16.1。低于15.3的PowerDesigner版本本软件无法支持。如果有发现高于15.3的软件版本支持不了的，请和作者联系处理。
 **支持哪些数据库系统：**理论上所有关系型数据库系统都可以支撑，目前测试过Oracle、MySQL、Sql Server、PostgreSQL四种数据库系统。如果有需要支持其它数据库系统，请和作者联系。
 **可以定制化开发么：**当然可以，请和作者联系，根据定制化开发的工作量进行收费。
