@@ -42,6 +42,7 @@ CodeAsst支持模板集，一个模板集包括多个模板，比如你可以定
 #### 3.3.1 新建模板
 点击“新建模板”按钮可以新建一个模板文件，在这个界面中可以导入已有的模板文件的内容。
 模板类型有两种：面向单个表的TPL_TYPE_TABLE和面向整个数据模型的TPL_TYPE_MODEL。TPL_TYPE_TABLE适合于对单表的增删查改操作的代码模板，TPL_TYPE_MODEL适合于面向多个表的操作文件。
+
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/newTemplate.png)
 #### 3.3.2 TPL_TYPE_TALBE模板使用说明
 此模板通过内置变量table获取数据模型中的一个table的相关属性。
@@ -250,6 +251,7 @@ CodeAsst自定义了自己的数据模型XML文件，用户可以自行编辑XML
 ### 3.5 “选择表模型”界面
 在数据模型已打开的情况下，在“选择表模型”界面可以查看并选择需要生成代码的表模型。
 同时，可以将数据模型导出为XML文件（后缀名为.model.xml）。
+
 ![生成的文件示例](https://github.com/indexdoc/indexdoc-model-to-code/raw/main/choseTableModel.png)
 ### 3.6 代码生成
 在代码模板已经确认，数据模型已经确认的情况下，可以打开“代码生成”界面。
