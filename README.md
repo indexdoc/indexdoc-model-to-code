@@ -14,7 +14,7 @@
 此工具适用于各类软件公司、工作室、开发团队及个人开发者。
 数据模型是软件系统的基础，系统的大部分操作都围绕基础数据的增删查改展开。如果你习惯于**先设计数据模型，再编写代码**，那么 CodeAsst 将会是你的高效开发助手。熟练使用后，你可以批量生成一个系统的几乎所有代码；更可以基于已有系统的代码模板，批量生成多个系统的 Demo 版本——这并非夸大，而是 CodeAsst 已经实现的功能。
 
-[![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/) [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-model-to-code?style=social)](https://github.com/indexdoc/indexdoc-model-to-code)
+[![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/) [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-model-to-code?style=social)](https://github.com/indexdoc/indexdoc-model-to-code) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## 1 ✨ 代码生成流程
