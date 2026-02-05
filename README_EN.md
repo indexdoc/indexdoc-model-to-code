@@ -13,7 +13,7 @@ This tool is suitable for various software companies, studios, development teams
 
 Data models form the foundation of software systems, with most system operations revolving around CRUD (Create, Read, Update, Delete) operations on basic data. If you prefer the workflow of **designing data models first, then writing code**, CodeAsst will be your efficient development assistant. With proficient use, you can batch generate nearly all code for a system; even better, you can batch generate Demo versions of multiple systems based on existing system code templates – this is not an overstatement, but a proven capability of CodeAsst.
 
-[![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/) [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-model-to-code?style=social)](https://github.com/indexdoc/indexdoc-model-to-code)
+[![Python Version](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/) [![GitHub Stars](https://img.shields.io/github/stars/indexdoc/indexdoc-model-to-code?style=social)](https://github.com/indexdoc/indexdoc-model-to-code) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ## 1 ✨ Code Generation Process
