@@ -6,7 +6,7 @@
   </div>
 </div>
   <div style="font-size: 14px; color: #57606a; padding: 2px 0;text-align: left;">
-    <span style="background: #f6f8fa; padding: 2px 8px; border-radius: 4px; font-size: 13px;">Other Core Repositories</span>
+    <span style="background: #f6f8fa; padding: 2px 8px; border-radius: 4px; font-size: 13px;">Other Core Repositories</span><br/>
     <a href="https://github.com/indexdoc/indexdoc-batch-generator" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-batch-generator（Batch Document Assistant）</a><br/>
     <a href="https://github.com/indexdoc/indexdoc-ai-offline" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-ai-offline（Local Document AI Assistant）</a><br/>
     <a href="https://github.com/indexdoc/indexdoc-converter" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-converter（File Converter）</a><br/>
