@@ -5,7 +5,7 @@
     <!-- | <a href="https://你的Demo在线地址" target="_blank" style="color: #165DFF; font-weight: 600; text-decoration: none;">✨ onlineDemo</a> -->
   </div>
   <div style="font-size: 14px; color: #57606a; padding: 2px 0;">
-    <span style="background: #f6f8fa; padding: 2px 8px; border-radius: 4px; font-size: 13px;">Core Repos</span>
+    <span style="background: #f6f8fa; padding: 2px 8px; border-radius: 4px; font-size: 13px;">Other Core Repositories</span>
     <a href="https://github.com/indexdoc/indexdoc-batch-generator" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-batch-generator（Batch Document Assistant）</a>
     <a href="https://github.com/indexdoc/indexdoc-ai-offline" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-ai-offline（Local Document AI Assistant）</a>
     <a href="https://github.com/indexdoc/indexdoc-converter" target="_blank" style="color: #0969da; text-decoration: none; margin: 0 6px;">indexdoc-converter（File Converter）</a>
